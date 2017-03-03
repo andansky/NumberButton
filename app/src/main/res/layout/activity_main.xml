@@ -16,9 +16,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-<<<<<<< HEAD
         app:nBtn_editable="true"/>
-=======
-        qinc:editable="true"/>
->>>>>>> dd17712770adceb3a06765934ba054dd473d519d
 </RelativeLayout>
