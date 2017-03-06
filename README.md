@@ -9,7 +9,7 @@
 
 #####使用
 * 引入 
-	* compile 'ren.qinc.numberbutton:numberbutton:0.0.1'
+	* compile 'aom.andan:carnum:1.2.1'
 * 布局
 
 ```xml
