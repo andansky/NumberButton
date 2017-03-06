@@ -9,7 +9,7 @@
 
 #####使用
 * 引入 
-	* compile 'aom.andan:carnum:1.2.1'
+	* compile 'com.andan:carnum:1.2.2'
 * 布局
 
 ```xml
